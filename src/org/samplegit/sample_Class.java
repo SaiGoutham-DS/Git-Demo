@@ -14,6 +14,11 @@ public class sample_Class {
 		
 
 	}
+	
+	private void price() {
+		System.out.println("2,00,000");
+
+	}
 
 	public static void main(String[] args) {
 		
@@ -23,6 +28,7 @@ public class sample_Class {
 	
 	s.bike();
 	s.model();
+	s.price();
 	
 	
 	
